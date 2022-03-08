@@ -9,9 +9,9 @@
   "NFT_NAME": "Crypto Worms Funky",
   "SYMBOL": "CWF",
   "MAX_SUPPLY": 1000,
-  "WEI_COST": 2000000000000000,
+  "WEI_COST": 20000000000000000,
   "DISPLAY_COST": 0.02,
-  "GAS_LIMIT": 3000000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cryptowormsfunky",
   "SHOW_BACKGROUND": true
